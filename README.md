@@ -1,13 +1,4 @@
 # Eloquent JavaScript
-<br>
-<img
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-width="48"
-height="48"
-alt="Javascript"
-/>
-<br>
-
 This repository contains my solutions to the various exercises and practices found in the book "Eloquent JavaScript" by Marijn Haverbeke. It serves as a record of my progress and understanding of the concepts presented in the book. The book covers a range of topics, from basic programming principles to more advanced concepts like higher-order functions, object-oriented programming, and asynchronous programming.
 
 ## Repository Structure
